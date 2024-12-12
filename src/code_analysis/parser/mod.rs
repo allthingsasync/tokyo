@@ -3,5 +3,5 @@ mod lexbuffer;
 mod parser;
 
 pub use lexer::Lexer;
-pub use lexbuffer::Lexbuffer;
+pub use lexbuffer::LexBuffer;
 pub use parser::Parser;
